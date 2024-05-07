@@ -1,8 +1,12 @@
 <!-- Namaste! 🙏 -->
 
-<video autoplay loop muted playsinline>
+<p align="center">
+  <img alt="Hello" src="assets/hello_optim.gif"/>
+</p>
+
+<!-- <video autoplay loop muted playsinline>
   <source src="assets/hello_optim.mp4" type="video/mp4" />
-</video>
+</video> -->
 
 ## About Me: 
 
@@ -37,10 +41,10 @@ Artificial Intelligence, Automation, Cloud, IoT, DevOps, Security & Networking
 
 <div align="center">
 
-| Python3 | abc | abc | abc |
-|----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
- 
+| Python3 | AWS | GCP | Kubernetes |
+|----|----|----|----|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="55" height="55"/> |
+
 </div>
 
 ---
