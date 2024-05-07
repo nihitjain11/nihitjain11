@@ -43,11 +43,11 @@ Join me on
   <img src="https://komarev.com/ghpvc/?username=nihitjain11&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-<picture>
+<p>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nihitjain11/nihitjain11/snake/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nihitjain11/nihitjain11/snake/github-contribution-grid-snake.svg">
   <img alt="github-snake" src="https://raw.githubusercontent.com/nihitjain11/nihitjain11/snake/github-contribution-grid-snake.svg">
-</picture>
+</p>
 
 ### How to reach me :mailbox:
 - [LinkedIn](https://www.linkedin.com/in/nihitjain11/)
