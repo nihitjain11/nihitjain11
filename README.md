@@ -1,22 +1,41 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=nihitjain11&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Namaste! 🙏 -->
 
-### About Me: 
-I'm 
+<p align="center">
+  <img alt="Hello" src="https://raw.githubusercontent.com/nihitjain11/nihitjain11/main/hello.gif"/>
+</p>
 
-Currently, I'm 
- 
+## About Me: 
 
-### Social media: 📡  
-Join me on 
+👋 Hi, I'm Nihit, I am a Professional Cloud DevOps Engineer, curious to learn, explore, innovate, and develop brilliant solutions for the world.
 
-### Working on: 🚀
+I work on deploying innovative and niche products to the internet faster and reliably, by automating with DevOps Tools and Services.
+
+_Making SDLC Experiences Delightful for Engineering and Product Teams._
+
+### Technology Stack experience: 
+Python, Amazon Web Services (AWS), DevOps, Docker, Kubernetes, Terraform, Jenkins, CI/CD, Data Analysis, Machine Learning, Datadog, NewRelic, MultiCloud, Cloud Security & Networking, Git, 
+
+### Skills:
+Quick Learner, Leader, Mentor, Team player, Innovator
+
+### Interests: 
+Artificial Intelligence, Automation, Cloud, IoT, DevOps, Security & Networking
+
+### Certified with 
+- AWS Certified Solutions Architect Associate
+- Aviatrix Certified Engineer - Multi-Cloud Network Associate
+- Certified Kubernetes Administrator (CKA)
+- Associate Cloud Engineer
+- HashiCorp Certified: Terraform Associate
+
+
+### Working on: 👨🏻‍💻
 
 - 
 
-## Languages and Tools 
-<div>
+## Languages and Tools 🛠️
 
-### Languages:
+<div align="center">
 
 | Python3 | abc | abc | abc |
 |----------|----------|----------|-----|
@@ -26,7 +45,6 @@ Join me on
 
 ---
 
-  
 <p align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nihitjain11&theme=dark&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=nihitjain11&hide_border=true">
@@ -36,13 +54,22 @@ Join me on
 ---
 
 <p align="center">
-  ![Nihit's GitHub stats]("https://github-readme-stats.vercel.app/api?username=nihitjain11\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&include_all_commits=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nihitjain11&hide_progress=true)
+  <img alt="Nihit's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nihitjain11&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&include_all_commits=true"/>
 </p>
 
+---
+
+<p align="center">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihitjain11&hide_progress=true"/>
+</p>
+
+---
+
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=nihitjain11&style=for-the-badge&color=brightgreen" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=nihitjain11&style=for-the-badge&color=brightgreen" alt="Views"/>
 </div>
+
+---
 
 <p>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nihitjain11/nihitjain11/snake/github-contribution-grid-snake-dark.svg">
@@ -50,5 +77,9 @@ Join me on
   <img alt="github-snake" src="https://raw.githubusercontent.com/nihitjain11/nihitjain11/snake/github-contribution-grid-snake.svg">
 </p>
 
-### How to reach me :mailbox:
+---
+
+### Reach me @ :mailbox:
 - [LinkedIn](https://www.linkedin.com/in/nihitjain11/)
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=nihitjain11&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
