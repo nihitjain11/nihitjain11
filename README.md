@@ -18,9 +18,9 @@ Join me on
 
 ### Languages:
 
-| Python3 | abc |
+| Python3 | abc | abc | abc |
 |----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
  
 </div>
 
@@ -40,7 +40,7 @@ Join me on
 </p>
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=nihitjain11&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=nihitjain11&style=for-the-badge&color=brightgreen" alt=""/>
 </div>
 
 <p>
