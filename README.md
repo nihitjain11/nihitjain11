@@ -1,7 +1,7 @@
 <!-- Namaste! 🙏 -->
 
 <p align="center">
-  <img alt="Hello" src="https://raw.githubusercontent.com/nihitjain11/nihitjain11/main/hello.gif"/>
+  <img alt="Hello" src="assets/hello.gif"/>
 </p>
 
 ## About Me: 
