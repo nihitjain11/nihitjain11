@@ -1,7 +1,7 @@
 <!-- Namaste! 🙏 -->
 
 <p align="center">
-  <img alt="Hello" src="assets/hello.gif"/>
+  <img alt="Hello" src="assets/hello_optim.gif"/>
 </p>
 
 ## About Me: 
