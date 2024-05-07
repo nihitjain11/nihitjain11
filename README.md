@@ -1,8 +1,8 @@
 <!-- Namaste! 🙏 -->
 
-<p align="center">
-  <img alt="Hello" src="assets/hello_optim.gif"/>
-</p>
+<video autoplay loop muted playsinline>
+  <source src="assets/hello_optim.mp4" type="video/mp4" />
+</video>
 
 ## About Me: 
 
