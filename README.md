@@ -28,15 +28,16 @@ Join me on
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=nihitjain11&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nihitjain11&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=nihitjain11&hide_border=true">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=nihitjain11&hide_border=true">
 </p>
-
 
 ---
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=nihitjain11&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihitjain11&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  ![Nihit's GitHub stats]("https://github-readme-stats.vercel.app/api?username=nihitjain11\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&include_all_commits=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nihitjain11&hide_progress=true)
 </p>
 
 <div id="header" align="center">
