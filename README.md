@@ -1,8 +1,12 @@
 <!-- Namaste! 🙏 -->
 
-<video autoplay loop muted playsinline>
+<p align="center">
+  <img alt="Hello" src="assets/hello.gif"/>
+</p>
+
+<!-- <video autoplay loop muted playsinline>
   <source src="assets/hello_optim.mp4" type="video/mp4" />
-</video>
+</video> -->
 
 ## About Me: 
 
@@ -13,34 +17,47 @@ I work on deploying innovative and niche products to the internet faster and rel
 _Making SDLC Experiences Delightful for Engineering and Product Teams._
 
 ### Technology Stack experience: 
-Python, Amazon Web Services (AWS), DevOps, Docker, Kubernetes, Terraform, Jenkins, CI/CD, Data Analysis, Machine Learning, Datadog, NewRelic, MultiCloud, Cloud Security & Networking, Git, 
-
-### Skills:
-Quick Learner, Leader, Mentor, Team player, Innovator
-
-### Interests: 
-Artificial Intelligence, Automation, Cloud, IoT, DevOps, Security & Networking
+Python, Amazon Web Services (AWS), DevOps, Docker, Kubernetes, Terraform, Jenkins, CI/CD, Data Analysis, Machine Learning, Datadog, NewRelic, MultiCloud, Cloud Security & Networking, Git, GitHub, GitLab, BitBucket, Jira, Confluence, Slack, Linux, Windows, MacOS, MySQL, MongoDB, Nginx, Istio, Vault, Ansible, Shell Scripting, etc.
 
 ### Certified with 
 - AWS Certified Solutions Architect Associate
 - Aviatrix Certified Engineer - Multi-Cloud Network Associate
-- Certified Kubernetes Administrator (CKA)
+<!-- - Certified Kubernetes Administrator (CKA)
 - Associate Cloud Engineer
-- HashiCorp Certified: Terraform Associate
+- HashiCorp Certified: Terraform Associate -->
 
+<!-- 
 
 ### Working on: 👨🏻‍💻
 
-- 
+ -->
 
-## Languages and Tools 🛠️
+## Tech Stack and Tools Experience🛠️
 
 <div align="center">
 
-| Python3 | abc | abc | abc |
-|----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="55" height="55"/> |
+|----|----|----|----|----|
+| Shell | Python | Nginx | MySQL | MongoDB |
+
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="55" height="55"/> |
+|----|----|----|----|----|
+| AWS | GCP | Linux | Windows | MacOS |
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" width="55" height="55"/> | |
+|----|----|----|----|----|
+| Git | GitHub | GitLab | BitBucket | - |
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="55" height="55"/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vault/vault-original.svg" width="55" height="55"/> |
+|----|----|----|----|----|
+| Docker | Jenkins | Ansible | Terraform | Vault
  
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" width="55" height="55"/>| <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Istio-bluelogo-nobackground-unframed.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original-wordmark.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg" width="55" height="55"/>
+|----|----|----|----|----|
+| Kubernetes | Istio | Jira | Slack |
+
+
 </div>
 
 ---
