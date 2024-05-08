@@ -28,10 +28,9 @@ Artificial Intelligence, Automation, Cloud, IoT, DevOps, Security & Networking
 ### Certified with 
 - AWS Certified Solutions Architect Associate
 - Aviatrix Certified Engineer - Multi-Cloud Network Associate
-- Certified Kubernetes Administrator (CKA)
+<!-- - Certified Kubernetes Administrator (CKA)
 - Associate Cloud Engineer
-- HashiCorp Certified: Terraform Associate
-
+- HashiCorp Certified: Terraform Associate -->
 
 ### Working on: 👨🏻‍💻
 
