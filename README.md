@@ -1,7 +1,7 @@
 <!-- Namaste! 🙏 -->
 
 <p align="center">
-  <img alt="Hello" src="assets/hello_optim.gif"/>
+  <img alt="Hello" src="assets/hello.gif"/>
 </p>
 
 <!-- <video autoplay loop muted playsinline>
