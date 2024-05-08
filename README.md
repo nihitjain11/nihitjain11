@@ -17,13 +17,7 @@ I work on deploying innovative and niche products to the internet faster and rel
 _Making SDLC Experiences Delightful for Engineering and Product Teams._
 
 ### Technology Stack experience: 
-Python, Amazon Web Services (AWS), DevOps, Docker, Kubernetes, Terraform, Jenkins, CI/CD, Data Analysis, Machine Learning, Datadog, NewRelic, MultiCloud, Cloud Security & Networking, Git, 
-
-### Skills:
-Quick Learner, Leader, Mentor, Team player, Innovator
-
-### Interests: 
-Artificial Intelligence, Automation, Cloud, IoT, DevOps, Security & Networking
+Python, Amazon Web Services (AWS), DevOps, Docker, Kubernetes, Terraform, Jenkins, CI/CD, Data Analysis, Machine Learning, Datadog, NewRelic, MultiCloud, Cloud Security & Networking, Git, GitHub, GitLab, BitBucket, Jira, Confluence, Slack, Linux, Windows, MacOS, MySQL, MongoDB, Nginx, Istio, Vault, Ansible, Shell Scripting, etc.
 
 ### Certified with 
 - AWS Certified Solutions Architect Associate
@@ -32,9 +26,11 @@ Artificial Intelligence, Automation, Cloud, IoT, DevOps, Security & Networking
 - Associate Cloud Engineer
 - HashiCorp Certified: Terraform Associate -->
 
+<!-- 
+
 ### Working on: 👨🏻‍💻
 
-- 
+ -->
 
 ## Tech Stack and Tools Experience🛠️
 
